@@ -2,6 +2,8 @@
 From the Golang site's create a Go module tutorial.  
 [Golang tutorial](https://golang.org/doc/tutorial/create-module)  
 
+[Golang tour](https://tour.golang.org/)  
+
 Eventually more could be added.  
 
 #### Misc  
